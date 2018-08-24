@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \Blackout Sensitive Info
 \Capture and Add Red Text
