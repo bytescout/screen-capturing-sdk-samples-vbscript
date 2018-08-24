@@ -1,0 +1,31 @@
+## Index of source code examples
+
+
+\Blackout Sensitive Info
+\Capture and Add Red Text
+\Capture and Add Time Stamp
+\Capture Around Mouse
+\Capture Entire Screen
+\Capture Entire Screen and Web Cam Video
+\Capture Entire Screen and WebCam
+\Capture Entire Screen to HD WMV
+\Capture Entire Screen With Transparent Windows
+\Capture From FlashPlayer Control In Browser
+\Capture From Silverlight Control In Browser
+\Capture Given Window
+\Capture Given Window And Crop
+\Capture Given Window And Stop On Window Closed
+\Capture Regin And Do Not Resize
+\Capture Region
+\Capture WebCam Full Screen Only
+\Low FPS and Min WMV Size
+\Multiple Regions Recording
+\Pause And Resume
+\Screenshots Manual
+\Screenshots On Click
+\Screenshots On Timer
+\Set Mouse Spot Size
+\Set WMV video bitrate
+\Show Capturing Properties Dialog
+\WEBM Output
+\WMV Profile
