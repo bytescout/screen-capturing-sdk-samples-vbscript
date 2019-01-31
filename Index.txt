@@ -21,6 +21,7 @@
 \Set Low FPS and Min WMV Size for video
 \Set Mouse Spot Size for screen video
 \Set Multiple Regions Recording for video
+\Set WMV Video Bitrate
 \Show Capturing Properties Dialog
 \Take manual Screenshots during video recording
 \Take Screenshots On Click
