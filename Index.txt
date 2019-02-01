@@ -1,30 +1,30 @@
 ## Index of source code examples:
 
-\Capture Entire Screen and Web Cam Video
-\Capture Entire Screen and WebCam as video
-\Capture Entire Screen into video
-\Capture Entire Screen to HD WMV video
-\Capture Entire Screen video With Transparent Windows
+\Capture Entire Screen and WebCam Video
+\Capture Entire Screen into Video
+\Capture Entire Screen to HD WMV Video
+\Capture Entire Screen Video With Transparent Windows
+\Capture Full Screen with WebCam
 \Capture Given Window And Crop video
-\Capture Given Window And Stop video On Window Closed
-\Capture Given Window into video
-\Capture Region area as video And Do Not Resize
-\Capture Region into video
-\Capture screen video and Add Red Text
-\Capture screen video Around Mouse
-\Capture screen video with Time Stamp
-\Capture video From FlashPlayer Control In Browser
-\Capture video From Silverlight Control In Browser
+\Capture Given Window And Stop Video On Window Closed
+\Capture Given Window into Video
+\Capture Region Area as Video And Do Not Resize
+\Capture Region into Video
+\Capture Screen Video and Add Red Text
+\Capture Screen Video Around Mouse
+\Capture Screen Video with Time Stamp
+\Capture Video From FlashPlayer Control In Browser
+\Capture Video From Silverlight Control In Browser
 \Capture WebCam Full Screen Only
-\Pause And Resume screen video recording
-\Set Black out for sensitive Info in screen video
-\Set Low FPS and Min WMV Size for video
-\Set Mouse Spot Size for screen video
-\Set Multiple Regions Recording for video
+\Pause And Resume Screen Video Recording
+\Set Blackout for Sensitive Info in Screen Video
+\Set Low FPS and Min WMV Size for Video
+\Set Mouse Spot Size for Screen Video
+\Set Multiple Regions Recording for Video
 \Set WMV Video Bitrate
 \Show Capturing Properties Dialog
-\Take manual Screenshots during video recording
+\Take Manual Screenshots During Video Recording
 \Take Screenshots On Click
 \Take Screenshots On Timer
-\Use WEBM Output for video
-\Use WMV Profile for video settings
+\Use WEBM Output for Video
+\Use WMV Profile for Video Settings
