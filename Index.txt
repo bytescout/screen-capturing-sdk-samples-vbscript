@@ -16,6 +16,8 @@
 \Capture Video From FlashPlayer Control In Browser
 \Capture Video From Silverlight Control In Browser
 \Capture WebCam Full Screen Only
+\Merge AVI Video Files
+\Merge WMV Video Files
 \Pause And Resume Screen Video Recording
 \Set Blackout for Sensitive Info in Screen Video
 \Set Low FPS and Min WMV Size for Video
